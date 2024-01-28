@@ -11,7 +11,7 @@ aviutl-rs は、AviUtl のプラグインを Rust で開発するためのライ
 - [ ] filter
 - [ ] input
 - [ ] color
-- <s>[ ] language</s>（それ Rust である必要ある？）
+- [ ] <s>language</s>（それ Rust である必要ある？）
 
 ## 使い方
 
