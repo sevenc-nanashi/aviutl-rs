@@ -1,0 +1,11 @@
+[package]
+name = "aviutl-rs-macro"
+version.workspace = true
+edition.workspace = true
+
+[lib]
+proc-macro = true
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
